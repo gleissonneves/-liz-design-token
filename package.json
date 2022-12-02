@@ -1,8 +1,8 @@
 {
-  "name": "liz-design-token",
+  "name": "@gleissonneves/liz-design-token",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "token.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
