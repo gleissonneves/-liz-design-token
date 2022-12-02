@@ -1,6 +1,6 @@
 {
   "name": "@gleissonneves/liz-design-token",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tokens amigáveis para apicações em css ou sass",
   "main": "token.css",
   "scripts": {
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/gleissonneves/liz-design-token.git"
   },
   "keywords": [
-    "Token",
-    "design token",
-    "design system"
+    "Token CSS",
+    "Design token",
+    "Design system"
   ],
   "author": "Gleisson Neves",
   "license": "MIT",
