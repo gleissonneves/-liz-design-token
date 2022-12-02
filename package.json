@@ -1,6 +1,6 @@
 {
   "name": "@gleissonneves/liz-design-token",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Tokens amigáveis para apicações em css ou sass",
   "main": "token.css",
   "scripts": {
