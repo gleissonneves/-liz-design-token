@@ -16,8 +16,13 @@ YARN
 yarn add @gleissonneves/liz-design-token
 ```
 
+Use no root do app para disponibilizar os token
+``
+ import '@gleissonneves/liz-design-token'
+``
 
-CDN
+
+or CDN
 
 ```
 <!DOCTYPE html>
@@ -34,4 +39,26 @@ CDN
     ...
 </head>
 ...
+```
+
+
+# Documento de visão
+No link abaixo você encontra o documento de token:
+
+https://www.figma.com/file/cPVx6CuoMyIz2Vwp8RETxe/Liz-Design-Token?node-id=6%3A13&t=SqvGhwafBGXJrevw-1
+
+Parar alterar um token você terar que sobrescrever
+
+Exemplo:
+```
+Token de origem:
+:root {
+    --color-brand-primary-100: #FDB9D2;
+}
+
+
+Token de modificado:
+:root {
+    --color-brand-primary-100: #FF00FF;
+}
 ```
