@@ -16,8 +16,10 @@ YARN
 yarn add @gleissonneves/liz-design-token
 ```
 
-YARN
+<!--
+CDN
 
 ```
 https://unpkg.com/@gleissonneves/liz-design-token
 ```
+-->
