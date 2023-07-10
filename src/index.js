@@ -1,1 +1,1 @@
-import './token.css';
+import './token/index.css';

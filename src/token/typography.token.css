@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+
+:root {
+  --font-family-primary: "Poppins";
+
+  --font-size-100: 0.75rem;   /* 12px */
+  --font-size-200: 0.87rem;   /* 14px */
+  --font-size-300: 1rem;      /* 16px */
+  --font-size-400: 1.188rem;  /* 19px */
+  --font-size-500: 1.375rem;  /* 22px */
+  --font-size-600: 1.625rem;  /* 26px */
+  --font-size-700: 1.938rem;  /* 31px */
+  --font-size-800: 2.312rem;  /* 37px */
+  --font-size-900: 2.688rem;  /* 43px */
+
+  --font-weight-100: 300;
+  --font-weight-200: 400;
+  --font-weight-300: 500;
+  --font-weight-400: 600;
+  --font-weight-500: 700;
+
+  --line-height-100: 100%;
+  --line-height-200: 120%;
+  --line-height-300: 140%;
+  --line-height-400: 180%;
+}

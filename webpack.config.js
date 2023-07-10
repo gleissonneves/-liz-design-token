@@ -2,7 +2,7 @@ const path = require("path");
 // const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 // const CssMinimizerPlugin = require("css-minimizer-webpack-plugin");
 
-const buildPRD = false;
+const buildPRD = true;
 
 module.exports = {
   mode:  (buildPRD) ? 'production' : 'development',

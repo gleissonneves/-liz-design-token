@@ -1,14 +1,4 @@
-/*
-   tokens baseados em liz design token
-   https://www.figma.com/community/file/1150677865238709221
-*/
-
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&family=Poppins:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap');
-
 :root {
-  --font-family-title: "Poppins";
-  --font-family-body: "Nunito Sans";
-
   --color-brand-primary-100: #FDB9D2;
   --color-brand-primary-200: #FC97BC;
   --color-brand-primary-300: #FB74A6;
