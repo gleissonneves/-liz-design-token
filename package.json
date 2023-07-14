@@ -1,13 +1,14 @@
 {
   "name": "@gleissonneves/liz-design-token",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "description": "Tokens amigáveis para apicações em css ou sass",
   "main": "./dist/index.js",
   "files": [
     "./dist/index.js"
   ],
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "watch:sass": "sass --watch src/token/scss/:src/token/css" 
   },
   "repository": {
     "type": "git",

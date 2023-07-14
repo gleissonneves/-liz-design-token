@@ -1,0 +1,14 @@
+:root {
+  --space-0: 0; /**/
+  --space-100: 0.25rem; /* 4px */
+  --space-200: 0.5rem; /* 8px */
+  --space-300: 1rem; /* 16px */
+  --space-400: 1.25rem; /* 24px */
+  --space-500: 2rem; /* 32px */
+  --space-600: 3rem; /* 48px */
+  --space-700: 4rem; /* 64px */
+  --space-800: 6.5rem; /* 104px */
+  --space-900: 15rem; /* 240px */
+}
+
+/*# sourceMappingURL=space.token.css.map */
