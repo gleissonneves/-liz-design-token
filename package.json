@@ -1,10 +1,11 @@
 {
   "name": "@gleissonneves/liz-design-token",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Tokens amigáveis para apicações em css ou sass",
-  "main": "./dist/index.js",
+  "main": "./dist/liz-design-token.css",
   "files": [
-    "./dist/index.js"
+    "./dist/index.js",
+    "./dist/liz-design-token.css"
   ],
   "scripts": {
     "build": "webpack",
