@@ -5,6 +5,7 @@ const config = {
     "@storybook/addon-links",
     "@storybook/addon-essentials",
     "@storybook/addon-interactions",
+    "storybook-design-token",
   ],
   framework: {
     name: "@storybook/html-webpack5",

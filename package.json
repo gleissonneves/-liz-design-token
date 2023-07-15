@@ -10,7 +10,7 @@
   "scripts": {
     "build": "webpack",
     "watch:sass": "sass --watch src/token/scss/:src/token/css",
-    "storybook": "storybook dev -p 6006",
+    "dev": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
   "repository": {
