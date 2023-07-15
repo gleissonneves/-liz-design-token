@@ -1,0 +1,12 @@
+<!-- Verifique primeiro se sua solicitação pull ainda não foi proposta -->
+<!-- Evite usar qualquer idioma que não seja o Português-->
+<!-- Certifique-se de ter adicionado ou executado os testes apropriados para seu PR -->
+<!-- Se possível complete *todas* as seções conforme descrito. Não remova nenhuma seção. -->
+
+**Alterações propostas**
+<!--- Descreva a mudança abaixo, incluindo a lógica e as decisões de design -->
+
+<!--- Inclua "Correções #[issue_number]" se você estiver corrigindo um problema existente -->
+
+**Contexto adicional**
+<!-- Adicione qualquer outro contexto ou capturas de tela sobre a solicitação de recurso aqui. -->
